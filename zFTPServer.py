@@ -8,7 +8,7 @@
 # Vendor Status:     fixed
 # CVE-ID:            CVE-2011-4717
 # PoC-Version:       0.3
-# Usage:            python exploit.py IP 10 
+# Usage:             python exploit.py IP 10 
 #################################################################################
 
 import sys
